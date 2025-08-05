@@ -1,0 +1,27 @@
+*{
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(1, 5, 4);
+}
+
+fieldset{
+    display: inline-block;
+    width: 500px;
+    height: 180px;
+    padding: 5px;
+    border: 1px blue;
+    background-color: rgb(238, 215, 187);
+}
+
+#forgetPass{
+    color: red;
+}
+
+#noAccount{
+
+}
+
+#signUp{
+
+}
